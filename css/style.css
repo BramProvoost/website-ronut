@@ -1,2 +1,8 @@
-html, body {font-family:"Verdana", sans-serif}
-h1 {font-family:"Segoe UI", sans-serif}
+html, body {
+    font-family:"Verdana", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family:"Segoe UI", sans-serif;
+}
